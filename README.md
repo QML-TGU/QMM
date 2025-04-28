@@ -10,4 +10,4 @@ pennylane-qiskit=0.33.1
 
 ## Running
 Taking the original matrix multiplication algorithm as an example, you can verify the feasibility of quantum matrix multiplication by executing the __'matrix_multiplication_old.ipynb'__ file. Should you wish to evaluate the memory usage of the algorithms, the
-``memory_profiler``library can be utilized.# QMM
+``memory_profiler``library can be utilized.
